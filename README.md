@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-# Name: Paida Ram Sai
-# Reg No: 212223110034
+### Name: Paida Ram Sai
+### Reg No: 212223110034
 ## Aim:
 
 To study the execution of various Linux operating system commands.
